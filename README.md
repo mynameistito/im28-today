@@ -1,6 +1,8 @@
 # im28-today
 
-A birthday microsite for `myisnametito` turning 28.
+A birthday microsite for me turning 28, 3 prompts (incl. deployment) made w/ gpt-5.4 via ampcode.
+
+Amp Thread: https://ampcode.com/threads/T-019dada3-7d3a-741e-9ea3-a982709e2d95
 
 ## Stack
 
