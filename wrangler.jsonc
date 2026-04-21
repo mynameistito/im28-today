@@ -1,0 +1,16 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "account_id": "402722ab1f598e783cd6dcdedc37e1d0",
+  "name": "im28-today",
+  "compatibility_date": "2026-04-21",
+  "routes": [
+    {
+      "pattern": "im28.today",
+      "custom_domain": true
+    }
+  ],
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
+}

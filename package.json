@@ -1,0 +1,18 @@
+{
+  "name": "im28-today",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "devDependencies": {
+    "react-grab": "^0.1.32",
+    "typescript": "~6.0.2",
+    "vite": "^8.0.9",
+    "wrangler": "^4.84.0"
+  }
+}
